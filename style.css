@@ -1,0 +1,35 @@
+.head{
+color:aliceblue;
+background-color: black;
+text-align: center;
+padding:10px 10px 10px 10px;
+margin:0;
+}
+a{
+    text-decoration: none;
+     margin-right: 10px;
+     color:black;
+  
+}
+.center{
+    text-align: center;
+ padding:10px 10px 10px 10px;
+ 
+ background-color:whitesmoke;
+}
+dd{
+    border-left: 5px solid green;
+    padding:10px;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+.price{
+    color:green;
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+    font-style: oblique;
+}
